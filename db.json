@@ -13,6 +13,7 @@
       "admins": [
         {
           "id": 0,
+          "nom": "Pau",
           "user": "pduran",
           "pwd": "contra"
         }
