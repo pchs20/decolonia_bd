@@ -1,6 +1,7 @@
 {
     "contacte": [
         {
+          "id": 1,
           "nom": "Pau Duran",
           "corrreu": "pauduranmanzano@gmail.com",
           "telf": 600630115,
