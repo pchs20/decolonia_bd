@@ -17,5 +17,15 @@
           "user": "pduran",
           "pwd": "contra"
         }
+      ],
+
+      "forum": [
+        {
+          "id": 0,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 03 2022"
+        }
       ]
 }
