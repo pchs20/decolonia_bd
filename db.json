@@ -6,7 +6,15 @@
           "corrreu": "pauduranmanzano@gmail.com",
           "telf": 600630115,
           "loc": "Premià de Mar",
-          "miss": "Vull arreglar la meva pared"
+          "miss": "Vull arreglar la meva pared, que està molt fea."
+        }
+      ],
+
+      "admins": [
+        {
+          "id": 0,
+          "user": "pduran",
+          "pwd": "contra"
         }
       ]
 }
